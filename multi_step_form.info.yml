@@ -1,0 +1,6 @@
+name: Multi Step Form
+description: Creates a Multi Step Form Sample.
+package: Custom
+
+type: module
+core: 8.x
