@@ -5,8 +5,8 @@ This is a sample module to provide "Multi Step Form" for Drupal8.
 ```
 cd /your/drupal/path
 cd modules
-git submodule add git@github.com:Ippey/MultiStepFormForDrupal8.git multi_step_form
+git clone git@github.com:Ippey/MultiStepFormForDrupal8.git multi_step_form
 ```
 
 # See also
-
+https://www.sitepoint.com/how-to-build-multi-step-forms-in-drupal-8/
